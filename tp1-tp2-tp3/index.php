@@ -1,0 +1,1 @@
+<?php header('Location:  vista/tp1/ejercicio1/index.php') ?>

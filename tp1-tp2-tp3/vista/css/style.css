@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+.container-fluid {
+    background-color: lightblue;
+    text-align: center;
+}
+/*
+form {
+    width: 500px;
+    height: 400px;
+}
+*/
+span {
+    width: 75px;
+    height: 30px;
+}
